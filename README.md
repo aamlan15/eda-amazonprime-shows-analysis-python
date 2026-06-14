@@ -135,7 +135,6 @@ Amazon-Prime-EDA/
 - NumPy
 - Matplotlib
 - Seaborn
-- Plotly
 - Jupyter Notebook
 
 ---
