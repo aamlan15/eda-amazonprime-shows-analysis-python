@@ -142,52 +142,43 @@ Amazon-Prime-EDA/
 ## 🔍 Exploratory Data Analysis
 
 ### Content Distribution
-
 - Movies vs TV Shows Count
 
 ### Release Year Analysis
-
 - Releases by Year
 - Total Releases per Year
 - Average IMDb per Year
 
 ### Genre Analysis
-
 - Top 10 Genres by Count
 - Average IMDb by Genre
 - Genre vs IMDb Heatmap
 
 ### Runtime Analysis
-
 - Runtime Distribution
 - Runtime Trend Over Years
 - Average Runtime by Runtime Category
 - Runtime vs IMDb Scatter Plot
 
 ### Ratings Analysis
-
 - IMDb Score Distribution
 - IMDb vs TMDB Correlation Scatterplot
 - Average IMDb by Rating Category
 
 ### Popularity Analysis
-
 - Top 10 Popular Titles
 - Popularity vs IMDb Scatterplot
 - IMDb Votes Trend
 
 ### Country-wise Analysis
-
 - Top 10 Production Countries
 - Average IMDb by Country
 
 ### Age Certification Analysis
-
 - Certification Distribution
 - Average IMDb by Certification
 
 ### Cast and Crew Analysis
-
 - Top 10 Actors
 - Top 10 Directors
 - Role Distribution
@@ -262,13 +253,13 @@ The findings demonstrate how data can support strategic decisions related to con
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Amazon-Prime-EDA.git
+git clone https://github.com/aamlan15/eda-amazonprime-shows-analysis-python.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd Amazon-Prime-EDA
+cd eda-amazonprime-shows-analysis-python
 ```
 
 Install the required dependencies:
@@ -293,9 +284,9 @@ Aspiring Data Analyst | Python | Data Visualization | Exploratory Data Analysis
 
 ### Connect With Me
 
-- LinkedIn: *https://www.linkedin.com/in/amlanbiswal*
-- GitHub: *https://github.com/aamlan15*
-- Email: *aamlan1978@gmail.com*
+- LinkedIn: https://www.linkedin.com/in/amlanbiswal
+- GitHub: https://github.com/aamlan15
+- Email: aamlan1978@gmail.com
 
 ---
 
@@ -308,6 +299,5 @@ Aspiring Data Analyst | Python | Data Visualization | Exploratory Data Analysis
 - NumPy Documentation
 - Matplotlib Documentation
 - Seaborn Documentation
-- Plotly Documentation
 
 ---
